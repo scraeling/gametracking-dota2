@@ -1,6 +1,0 @@
-"settings"
-{
-	"nomip"		"1"
-	"nocompress"		"1"
-	"maxres"		"256"
-}
