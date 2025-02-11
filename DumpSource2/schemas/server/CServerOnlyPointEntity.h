@@ -1,3 +1,0 @@
-class CServerOnlyPointEntity : public CServerOnlyEntity
-{
-};

@@ -1,3 +1,0 @@
-class CLightOrthoEntity : public CLightEntity
-{
-};

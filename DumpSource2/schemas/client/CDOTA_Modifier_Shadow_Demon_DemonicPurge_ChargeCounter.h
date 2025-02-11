@@ -1,3 +1,0 @@
-class CDOTA_Modifier_Shadow_Demon_DemonicPurge_ChargeCounter : public CDOTA_Modifier_LegacyChargeCounter
-{
-};

@@ -1,3 +1,0 @@
-class CLightDirectionalEntity : public CLightEntity
-{
-};

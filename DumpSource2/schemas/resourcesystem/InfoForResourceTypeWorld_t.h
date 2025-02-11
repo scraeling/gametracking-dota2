@@ -1,3 +1,0 @@
-class InfoForResourceTypeWorld_t
-{
-};

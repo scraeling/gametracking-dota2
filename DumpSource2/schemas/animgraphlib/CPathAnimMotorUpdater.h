@@ -1,3 +1,0 @@
-class CPathAnimMotorUpdater : public CPathAnimMotorUpdaterBase
-{
-};

@@ -1,6 +1,0 @@
-class PlayerResourceBroadcasterData_t
-{
-	CUtlSymbolLarge m_iszBroadcasterChannelDescription;
-	CUtlSymbolLarge m_iszBroadcasterChannelCountryCode;
-	CUtlSymbolLarge m_iszBroadcasterChannelLanguageCode;
-};

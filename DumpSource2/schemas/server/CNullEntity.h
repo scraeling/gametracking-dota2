@@ -1,3 +1,0 @@
-class CNullEntity : public CBaseEntity
-{
-};

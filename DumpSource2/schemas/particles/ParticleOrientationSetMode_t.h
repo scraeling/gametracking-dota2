@@ -1,5 +1,0 @@
-enum ParticleOrientationSetMode_t : uint32_t
-{
-	PARTICLE_ORIENTATION_SET_FROM_VELOCITY = 0,
-	PARTICLE_ORIENTATION_SET_FROM_ROTATIONS = 1,
-};

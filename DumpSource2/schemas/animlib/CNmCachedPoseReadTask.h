@@ -1,3 +1,0 @@
-class CNmCachedPoseReadTask : public CNmTask
-{
-};

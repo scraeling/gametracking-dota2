@@ -1,3 +1,0 @@
-class CInfoParticleTarget : public CPointEntity
-{
-};

@@ -1,3 +1,0 @@
-class CParticleFunctionForce : public CParticleFunction
-{
-};

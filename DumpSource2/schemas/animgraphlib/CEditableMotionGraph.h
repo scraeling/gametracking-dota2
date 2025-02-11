@@ -1,3 +1,0 @@
-class CEditableMotionGraph : public CMotionGraph
-{
-};

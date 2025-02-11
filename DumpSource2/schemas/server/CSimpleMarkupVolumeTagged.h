@@ -1,3 +1,0 @@
-class CSimpleMarkupVolumeTagged : public CMarkupVolumeTagged
-{
-};

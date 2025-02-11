@@ -1,3 +1,0 @@
-class CInfoCourierSpawnDire : public CPointEntity
-{
-};

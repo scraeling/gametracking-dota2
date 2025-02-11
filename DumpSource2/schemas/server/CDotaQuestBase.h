@@ -1,3 +1,0 @@
-class CDotaQuestBase : public CBaseEntity
-{
-};

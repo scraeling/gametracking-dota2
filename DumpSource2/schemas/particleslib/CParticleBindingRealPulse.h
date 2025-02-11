@@ -1,3 +1,0 @@
-class CParticleBindingRealPulse : public CParticleCollectionBindingInstance
-{
-};

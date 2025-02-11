@@ -1,5 +1,0 @@
-enum ParticleLightnintBranchBehavior_t : uint32_t
-{
-	PARTICLE_LIGHTNING_BRANCH_CURRENT_DIR = 0,
-	PARTICLE_LIGHTNING_BRANCH_ENDPOINT_DIR = 1,
-};

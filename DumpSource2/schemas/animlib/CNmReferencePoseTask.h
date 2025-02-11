@@ -1,3 +1,0 @@
-class CNmReferencePoseTask : public CNmTask
-{
-};

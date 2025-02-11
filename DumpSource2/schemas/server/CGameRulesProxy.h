@@ -1,3 +1,0 @@
-class CGameRulesProxy : public CBaseEntity
-{
-};

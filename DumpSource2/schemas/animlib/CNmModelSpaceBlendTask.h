@@ -1,3 +1,0 @@
-class CNmModelSpaceBlendTask : public CNmBlendTaskBase
-{
-};

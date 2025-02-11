@@ -1,3 +1,0 @@
-class CDOTA_Item_Tome_of_aghanim : public CDOTA_Item
-{
-};

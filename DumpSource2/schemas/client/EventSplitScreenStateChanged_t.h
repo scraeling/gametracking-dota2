@@ -1,3 +1,0 @@
-class EventSplitScreenStateChanged_t
-{
-};

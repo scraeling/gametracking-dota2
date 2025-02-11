@@ -1,3 +1,0 @@
-class CPerParticleVecInput : public CParticleVecInput
-{
-};

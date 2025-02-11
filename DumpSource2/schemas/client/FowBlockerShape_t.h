@@ -1,5 +1,0 @@
-enum FowBlockerShape_t : uint32_t
-{
-	FOW_BLOCKER_SHAPE_RECTANGLE = 0,
-	FOW_BLOCKER_SHAPE_RECTANGLE_OUTLINE = 1,
-};

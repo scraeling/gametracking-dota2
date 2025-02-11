@@ -1,3 +1,0 @@
-class C_DOTA_Ability_Slark_Pounce : public C_DOTABaseAbility
-{
-};

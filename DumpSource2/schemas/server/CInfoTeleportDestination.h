@@ -1,3 +1,0 @@
-class CInfoTeleportDestination : public CPointEntity
-{
-};

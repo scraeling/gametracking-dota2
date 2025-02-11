@@ -1,3 +1,0 @@
-class CInfoData : public CServerOnlyEntity
-{
-};

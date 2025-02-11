@@ -1,3 +1,0 @@
-class WrappedPhysicsJoint_t
-{
-};

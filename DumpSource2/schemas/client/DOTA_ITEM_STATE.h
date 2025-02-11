@@ -1,5 +1,0 @@
-enum DOTA_ITEM_STATE : uint32_t
-{
-	DOTA_ITEM_NEEDS_EQUIPPED = 0,
-	DOTA_ITEM_READY = 1,
-};

@@ -1,3 +1,0 @@
-class CChoreoUpdateNode : public CUnaryUpdateNode
-{
-};

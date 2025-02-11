@@ -1,3 +1,0 @@
-class CParticleCollectionRendererVecInput : public CParticleCollectionVecInput
-{
-};

@@ -1,5 +1,0 @@
-enum ParticleMassMode_t : uint32_t
-{
-	PARTICLE_MASSMODE_RADIUS_CUBED = 0,
-	PARTICLE_MASSMODE_RADIUS_SQUARED = 2,
-};

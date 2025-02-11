@@ -1,3 +1,0 @@
-class CAnimCycle : public CCycleBase
-{
-};

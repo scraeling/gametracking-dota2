@@ -1,3 +1,0 @@
-class CMatchTrackedStatsEntity : public CBaseTrackedStatsEntity
-{
-};

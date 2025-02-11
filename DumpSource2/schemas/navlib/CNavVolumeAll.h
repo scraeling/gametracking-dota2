@@ -1,3 +1,0 @@
-class CNavVolumeAll : public CNavVolumeVector
-{
-};

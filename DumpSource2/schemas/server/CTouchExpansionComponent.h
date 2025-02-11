@@ -1,3 +1,0 @@
-class CTouchExpansionComponent : public CEntityComponent
-{
-};

@@ -1,6 +1,0 @@
-enum AbilityBarType_t : uint32_t
-{
-	ABILITY_BAR_TYPE_MAIN = 0,
-	ABILITY_BAR_TYPE_SECONDARY = 1,
-	ABILITY_BAR_TYPE_TERTIARY = 2,
-};

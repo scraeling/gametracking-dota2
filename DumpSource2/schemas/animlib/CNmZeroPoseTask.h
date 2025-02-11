@@ -1,3 +1,0 @@
-class CNmZeroPoseTask : public CNmTask
-{
-};

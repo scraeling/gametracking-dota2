@@ -1,3 +1,0 @@
-class InfoForResourceTypeManifestTestResource_t
-{
-};

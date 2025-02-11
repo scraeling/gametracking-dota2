@@ -1,3 +1,0 @@
-class CSoundOpvarSetOBBEntity : public CSoundOpvarSetAABBEntity
-{
-};

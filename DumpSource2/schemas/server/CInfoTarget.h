@@ -1,3 +1,0 @@
-class CInfoTarget : public CPointEntity
-{
-};

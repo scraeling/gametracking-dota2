@@ -1,3 +1,0 @@
-class CFootCycle : public CCycleBase
-{
-};

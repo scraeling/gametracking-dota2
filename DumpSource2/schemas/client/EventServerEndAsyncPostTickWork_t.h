@@ -1,3 +1,0 @@
-class EventServerEndAsyncPostTickWork_t
-{
-};

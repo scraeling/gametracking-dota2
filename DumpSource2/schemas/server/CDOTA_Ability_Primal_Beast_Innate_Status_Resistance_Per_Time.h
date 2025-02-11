@@ -1,3 +1,0 @@
-class CDOTA_Ability_Primal_Beast_Innate_Status_Resistance_Per_Time : public CDOTABaseAbility
-{
-};

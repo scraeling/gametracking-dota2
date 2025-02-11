@@ -1,3 +1,0 @@
-class CZeroPoseUpdateNode : public CLeafUpdateNode
-{
-};

@@ -1,3 +1,0 @@
-class EventClientAdvanceNonRenderedFrame_t
-{
-};

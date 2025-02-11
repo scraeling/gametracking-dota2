@@ -1,3 +1,0 @@
-class C_DOTA_Ability_Slardar_Sprint : public C_DOTABaseAbility
-{
-};

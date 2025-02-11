@@ -1,3 +1,0 @@
-class CFuncTrackAuto : public CFuncTrackChange
-{
-};

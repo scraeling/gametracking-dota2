@@ -1,3 +1,0 @@
-class CRootUpdateNode : public CUnaryUpdateNode
-{
-};
